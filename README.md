@@ -1,4 +1,4 @@
-# -ANN-Credit-Card-Approval-Prediction
+# ANN-Credit-Card-Approval-Prediction
 Building an ANN model for Credit Card Approval Prediction
 # Title: Credit Card Approval Prediction Using Artificial Neural Networks
 
